@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Bitter-Regular.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Bitter-Bold.woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Lato-Regular.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Lato-Light.woff');
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Lato-LightItalic.woff');
+    font-weight: lighter;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Lato-Bold.woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Lato-BoldItalic.woff');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Lato-Black.woff');
+    font-weight: bolder;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Lato-BlackItalic.woff');
+    font-weight: bolder;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Lato-Italic.woff');
+    font-weight: normal;
+    font-style: italic;
+}
